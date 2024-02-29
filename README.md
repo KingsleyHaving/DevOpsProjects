@@ -1,2 +1,2 @@
 # DevOpsProjects
-Different Project with AWS services, Linux, Docker and Kubernetes 
+x: https://twitter.com/KodeKingsley
